@@ -6,7 +6,7 @@ description: "I like building large-scale ML pipeline!"
 experiences:
   - employer: "Viettel Cyber Security"
     time: "Jul 2020 - Present"
-    logo: "/assets/profile/vcs.png"
+    logo: "/assets/profile/vcs.jpg"
     skills:
       - ML/DL
       - Tensorflow/Torch
@@ -55,7 +55,7 @@ projects:
   - employer: "Viettel Cyber Security"
     name: "Alert Response Automation"
     time: " Jan 2023 - Mar 2024"
-    logo: "/assets/profile/vcs.png"
+    logo: "/assets/profile/vcs.jpg"
     description:
       - "Alert Response Automation based on operating history"
       - "- Incident Response Automation for investigations."
@@ -114,7 +114,7 @@ projects:
   - employer: "Viettel Cyber Security"
     name: "Security Data Mining"
     time: "May 2022 - Dec 2022"
-    logo: "/assets/profile/vcs.png"
+    logo: "/assets/profile/vcs.jpg"
     description:
       - Deploying a Hadoop cluster on premise.
       - Integrate cluster with OneFS isilon cluster authenticated via kerberos and ldap.
@@ -123,7 +123,7 @@ projects:
   - employer: "Viettel Cyber Security"
     name: "Typing biometrics"
     time: "Jan 2022 - Mar 2022"
-    logo: "/assets/profile/vcs.png"
+    logo: "/assets/profile/vcs.jpg"
     description:
       - Authenticating system users by their typing behavior when login via username & password, or continuous on working session.
       - "- Apply metric learning method to build the encoder, transform typing behavior to user features."
@@ -132,7 +132,7 @@ projects:
   - employer: "Viettel Cyber Security"
     name: "Transaction Fraud Detection"
     time: "Sep 2021 - Dec 2021"
-    logo: "/assets/profile/vcs.png"
+    logo: "/assets/profile/vcs.jpg"
     description:
       - "Extract patterns from abnormal behavior, convert into multiple time series (ex: login on new device -> login failed limit exceeded -> reset password -> etc.)"
       - "Compare real-time transaction behavior with learned abnormal behavior using matching algorithm, such as: dynamic time warping, longest common sub sequence, etc."
