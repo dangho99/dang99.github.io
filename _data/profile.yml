@@ -53,6 +53,14 @@ experiences:
 
 projects:
   - employer: "Viettel Cyber Security"
+    name: "Security Chatbots"
+    time: "Mar 2024 - Present"
+    logo: "/assets/profile/vcs.jpg"
+    description:
+      - Identifying the SOAR alert.
+      - Operating the alert automatically via checklist (as workflow) using prompting.
+      - Summarize alert and export report for user.
+  - employer: "Viettel Cyber Security"
     name: "Alert Response Automation"
     time: " Jan 2023 - Mar 2024"
     logo: "/assets/profile/vcs.jpg"
@@ -61,7 +69,7 @@ projects:
       - "- Incident Response Automation for investigations."
       - "- False Positive Response Automation for workload reduction."
   - employer: "Freelance"
-    name: "Manufacturing chatbots"
+    name: "Manufacturing Chatbots"
     time: "Oct 2023 - Mar 2024"
     logo: "/assets/profile/denso.png"
     description:
