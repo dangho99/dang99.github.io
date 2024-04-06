@@ -192,12 +192,12 @@ skills:
 
 publications:
 
-awards:
-  - name: "The excellent applicability prize (Hanoi University of Science and Technology)"
-    time: "Jun 2020"
-    url: "https://drive.google.com/file/d/1-uIrp8pIjhTQapCvEcLc_1_YTnYNQWub/view?usp=sharing"
-    description: "The best applicability award at semester 2020-2 in Student Scientific Research"
-  - name: "The excellent graduation project Award (Hanoi University of Science and Technology)"
-    time: "May 2021"
-    url: ""
-    description: "The best graduation project of council (grade: 9.5/10) at semester 2021-2 with "Keyword Spotting using Deep Learning"
+# awards:
+#   - name: "The excellent applicability prize (Hanoi University of Science and Technology)"
+#     time: "Jun 2020"
+#     url: "https://drive.google.com/file/d/1-uIrp8pIjhTQapCvEcLc_1_YTnYNQWub/view?usp=sharing"
+#     description: "The best applicability award at semester 2020-2 in Student Scientific Research"
+#   - name: "The excellent graduation project Award (Hanoi University of Science and Technology)"
+#     time: "May 2021"
+#     url: ""
+#     description: "The best graduation project of council (grade: 9.5/10) at semester 2021-2 with "Keyword Spotting using Deep Learning"
