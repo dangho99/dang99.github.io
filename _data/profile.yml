@@ -1,4 +1,4 @@
-avatar: "/assets/profile/avatar.jpg"
+avatar: "/assets/profile/avatar.png"
 name: "Hoàng Phạm"
 email: "phamhoanghxh1@gmail.com"
 description: "I like building large-scale ML pipeline!"
@@ -34,7 +34,7 @@ experiences:
           children:
   - employer: "Freelance"
     time: "Jun 2022 - Present"
-    logo: "/assets/profile/avatar.jpg"
+    logo: "/assets/profile/avatar.png"
     skills:
       - Jetson Developer Kit
       - Node.js
