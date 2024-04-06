@@ -264,13 +264,13 @@
 
 <br>
 
-<div id="profile_publications" class="container" style="background-color: none;">
+<div id="profile_awards" class="container" style="background-color: none;">
     <div class="liner">
         <h2 style="color: #333 !important; font-size: 30px; font-style: initial!important; font-weight:bold;">
-            Publications</h2>
+            Honor & awards</h2>
     </div>
     <br>
-    {% for item in site.data.profile.publications %}
+    {% for item in site.data.profile.awards %}
     <div class="entry row">
         <div class="desc">
             <table>
@@ -278,12 +278,12 @@
                     <td class="htxt">
                         <a href="{{ item.url }}" style="color: black"><span
                                 style="font-weight:bold">{{ item.name }}</span><span
-                                style="font-style:italic;color:#bbb"> ({{ item.journal }} - {{ item.time }})</span> </a>
+                                style="font-style:italic;color:#bbb"> ({{ item.time }})</span> </a>
                     </td>
                 </tr>
                 <tr>
                     <td class="htxt" style="font-size: 15px">
-                        {{ item.abstract }}
+                        {{ item.description }}
                     </td>
                 </tr>
             </table>

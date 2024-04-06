@@ -187,11 +187,17 @@ certs:
     time: "Jan 2022"
     url: "https://www.coursera.org/account/accomplishments/certificate/H4HKFJ2UAFLP"
     image: "/assets/profile/stanford.png"
-  - name: "Student Science Research (best applicability prize)"
-    time: "Jun 2020"
-    url: "https://drive.google.com/file/d/1-uIrp8pIjhTQapCvEcLc_1_YTnYNQWub/view?usp=sharing"
-    image: "/assets/profile/hust.jpg"
 
 skills:
 
 publications:
+
+awards:
+  - name: "The excellent applicability prize (Hanoi University of Science and Technology)"
+    time: "Jun 2020"
+    url: "https://drive.google.com/file/d/1-uIrp8pIjhTQapCvEcLc_1_YTnYNQWub/view?usp=sharing"
+    description: The best applicability award at semester 2020-2 in Student Scientific Research
+  - name: "The excellent graduation project Award (Hanoi University of Science and Technology)"
+    time: "May 2021"
+    url: ""
+    description: "The best graduation project of council (grade: 9.5/10) at semester 2021-2 with "Keyword Spotting using Deep Learning"
