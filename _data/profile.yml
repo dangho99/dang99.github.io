@@ -142,9 +142,9 @@ projects:
     time: "Sep 2021 - Dec 2021"
     logo: "/assets/profile/vcs.png"
     description:
-      - "Extract patterns from abnormal behavior, convert into multiple time series (ex: login on new device -> login failed limit exceeded -> reset password -> etc.)"
-      - "Compare real-time transaction behavior with learned abnormal behavior using matching algorithm, such as: dynamic time warping, longest common sub sequence, etc."
-      - "Approximating time series using DFT, PAA, etc."
+      - "- Extract patterns from abnormal behavior, convert into multiple time series (ex: login on new device -> login failed limit exceeded -> reset password -> etc.)"
+      - "- Compare real-time transaction behavior with learned abnormal behavior using matching algorithm, such as: dynamic time warping, longest common sub sequence, etc."
+      - "- Approximating time series using DFT, PAA, etc."
   - employer: "Freelance"
     name: "Text to Speech Synthesis"
     time: "Feb 2021 - May 2021"
