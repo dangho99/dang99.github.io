@@ -39,6 +39,7 @@ experiences:
       - Jetson Developer Kit
       - Node.js
       - Vector Database
+      - Message Queue
       - Microservice
     roles:
       - name: "AI Software Developer"
