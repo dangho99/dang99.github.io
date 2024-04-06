@@ -84,7 +84,7 @@ projects:
   - employer: "Freelance"
     name: "People Counting"
     time: "Sep 2023 - Jan 2024"
-    logo: "/assets/profile/iph.png"
+    logo: "/assets/profile/iph.jpg"
     description:
       - "Building People Counting System in Shopping mall:"
       - "- Tracking (single camera, multi-camera), integration with Camera RTSP."
