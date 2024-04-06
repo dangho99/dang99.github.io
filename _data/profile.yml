@@ -57,9 +57,9 @@ projects:
     time: "Mar 2024 - Present"
     logo: "/assets/profile/vcs.png"
     description:
-      - Identifying the SOAR alert.
-      - Operating the alert automatically via checklist (as workflow) using prompting.
-      - Summarize alert and export report for user.
+      - "- Identifying the SOAR alert."
+      - "- Operating the alert automatically via checklist (as workflow) using prompting."
+      - "- Summarize alert and export report for user."
   - employer: "Viettel Cyber Security"
     name: "Alert Response Automation"
     time: " Jan 2023 - Mar 2024"
@@ -124,10 +124,10 @@ projects:
     time: "May 2022 - Dec 2022"
     logo: "/assets/profile/vcs.png"
     description:
-      - Deploying a Hadoop cluster on premise.
-      - Integrate cluster with OneFS isilon cluster authenticated via kerberos and ldap.
-      - Writing spark job and execute via oozie workflow.
-      - Hardening, debugging and monitoring the system.
+      - "- Deploying a Hadoop cluster on premise."
+      - "- Integrate cluster with OneFS isilon cluster authenticated via kerberos and ldap."
+      - "- Writing spark job and execute via oozie workflow."
+      - "- Hardening, debugging and monitoring the system."
   - employer: "Viettel Cyber Security"
     name: "Typing biometrics"
     time: "Jan 2022 - Mar 2022"
@@ -150,8 +150,8 @@ projects:
     time: "Feb 2021 - May 2021"
     logo: "/assets/profile/cmc.png"
     description:
-      - Handling noise to clean dataset by applying speech diarization method.
-      - Fine-tune WavLM model with Vietnamese dataset.
+      - "- Handling noise to clean dataset by applying speech diarization method."
+      - "- Fine-tune WavLM model with Vietnamese dataset."
   - employer: "Student"
     name: "Keyword Spotting"
     time: "Sep 2020 - Nov 2020"
