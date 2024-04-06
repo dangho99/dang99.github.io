@@ -9,16 +9,12 @@ experiences:
     logo: "/assets/profile/vcs.png"
     skills:
       - ML/DL
-      - Tensorflow
-      - Pytorch
-      - SQL
-      - NoSQL
-      - Python
-      - Docker
-      - K8s
-      - Kubeflow
-      - Airflow
+      - Tensorflow/Torch
+      - SQL/NoSQL
+      - Docker/K8s
+      - Kubeflow/Airflow
       - Microservice
+      - Hadoop
     roles:
       - name: "Machine Learning Engineer"
         time: "Jul 2021 - Present"
@@ -26,7 +22,7 @@ experiences:
         location: "Viet Nam"
         location_type: "Onsite"
         description:
-          text: "Build and integrate AI into security productions."
+          text: "Build and integrate AI into security products."
           children:
       - name: "Student Internship"
         time: "Jul 2020 - Jun 2021"
@@ -35,6 +31,23 @@ experiences:
         location_type: "Onsite"
         description:
           text: "Learning about security domain, apply AI into internal security products."
+          children:
+  - employer: "Freelance"
+    time: "Jun 2022 - Present"
+    logo: "/assets/profile/avatar.jpg"
+    skills:
+      - Jetson Developer Kit
+      - Node.js
+      - Vector Database
+      - Microservice
+    roles:
+      - name: "AI Software Developer"
+        time: "Jun 2022 - Present"
+        employment_type: "Part-time"
+        location: "Viet Nam"
+        location_type: "Remote"
+        description:
+          text: "Proposed solutions, design & develop AI products as required."
           children:
 
 projects:
@@ -77,6 +90,16 @@ projects:
       - "- Event driven with Message Queue (Redis, Kafka)."
       - "- ReID person (embedding method, similarity search & re-ranking)."
   - employer: "Freelance"
+    name: "Automatic number-plate recognition"
+    time: "Feb 2023 - Jun 2023"
+    logo: "/assets/profile/kotora.jpg"
+    description:
+      - Building ANPR system in apartment complex
+      - "- Number-plate detection."
+      - "- Number-plate processing: alignment by key-points, enhance, ..."
+      - "- Number-plate recognition."
+      - "- Integration with camera RTSP, stream processing with kafka."
+  - employer: "Freelance"
     name: "Face KYC"
     time: "Sep 2022 - Feb 2023"
     logo: "/assets/profile/telehouse.jpg"
@@ -112,7 +135,7 @@ projects:
     description:
       - "Extract patterns from abnormal behavior, convert into multiple time series (ex: login on new device -> login failed limit exceeded -> reset password -> etc.)"
       - "Compare real-time transaction behavior with learned abnormal behavior using matching algorithm, such as: dynamic time warping, longest common sub sequence, etc."
-      - Approximating time series using DFT, PAA, etc.
+      - "Approximating time series using DFT, PAA, etc."
   - employer: "Student"
     name: "Keyword Spotting"
     time: "Sep 2020 - Nov 2020"
@@ -122,16 +145,6 @@ projects:
       - "- Building simple audio recognition model from speech commands dataset."
       - "- Read infrared signal from television with IR 1838 sensor (receiver) and Raspberry Pi (use LIRC - Linux Infrared Remote Control)."
       - "- Mapping keyword prediction to respective infrared signal, then emit signal from IR T940 (emitter) on Raspberry Pi to television."
-  - employer: "Freelance"
-    name: "Automatic number-plate recognition"
-    time: "Feb 2023 - Jun 2023"
-    logo: "/assets/profile/kotora.jpg"
-    description:
-      - Building ANPR system in apartment complex
-      - "- Number-plate detection."
-      - "- Number-plate processing: alignment by key-points, enhance, ..."
-      - "- Number-plate recognition."
-      - "- Integration with camera RTSP, stream processing with kafka."
 
 education:
   - org: "Hanoi University of Science and Technology"
@@ -142,9 +155,9 @@ education:
     social: RF3i Lab, Student science research
 
 certs:
-  - name: "TOEIC 640"
+  - name: "TOEIC IIG (640)"
     time: "Apr 2023"
-    url: ""
+    url: "https://drive.google.com/file/d/1II7bib1nANavbSxibW9uGESZP-xqM2l_/view?usp=sharing"
     image: "/assets/profile/iig.png"
   - name: "Machine Learning Engineering for Production (MLOps) Specialization"
     time: "Sep 2022"
