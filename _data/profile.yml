@@ -168,7 +168,7 @@ education:
     degree: "Bachelor"
     field: "Automation Engineer Technology"
     grade: 3.37/4.0
-    social: RF3i Lab, Student science research
+    social: RF3i Lab, Student Science Research
 
 certs:
   - name: "TOEIC IIG (640)"
@@ -187,6 +187,10 @@ certs:
     time: "Jan 2022"
     url: "https://www.coursera.org/account/accomplishments/certificate/H4HKFJ2UAFLP"
     image: "/assets/profile/stanford.png"
+  - name: "Student Science Research (best applicability prize)"
+    time: "Jun 2020"
+    url: "https://drive.google.com/file/d/1-uIrp8pIjhTQapCvEcLc_1_YTnYNQWub/view?usp=sharing"
+    image: "/assets/profile/hust.jpg"
 
 skills:
 
