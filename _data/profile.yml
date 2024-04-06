@@ -1,0 +1,164 @@
+avatar: "/assets/profile/avatar.jpg"
+name: "Hoàng Phạm"
+email: "phamhoanghxh1@gmail.com"
+description: "I like building large-scale ML pipeline!"
+
+experiences:
+  - employer: "Viettel Cyber Security"
+    time: "Jul 2020 - Present"
+    logo: "/assets/profile/vcs.png"
+    skills:
+      - ML/DL
+      - Tensorflow
+      - Pytorch
+      - SQL
+      - NoSQL
+      - Python
+      - Docker
+      - K8s
+      - Kubeflow
+      - Airflow
+      - Microservice
+    roles:
+      - name: "Machine Learning Engineer"
+        time: "Jul 2021 - Present"
+        employment_type: "Full-time"
+        location: "Viet Nam"
+        location_type: "Onsite"
+        description:
+          text: "Build and integrate AI into security productions."
+          children:
+      - name: "Student Internship"
+        time: "Jul 2020 - Jun 2021"
+        employment_type: "Full-time"
+        location: "Viet Nam"
+        location_type: "Onsite"
+        description:
+          text: "Learning about security domain, apply AI into internal security products."
+          children:
+
+projects:
+  - employer: "Viettel Cyber Security"
+    name: "Alert Response Automation"
+    time: " Jan 2023 - Mar 2024"
+    logo: "/assets/profile/vcs.png"
+    description:
+      - "Alert Response Automation based on operating history"
+      - "- Incident Response Automation for investigations."
+      - "- False Positive Response Automation for workload reduction."
+  - employer: "Freelance"
+    name: "Manufacturing chatbots"
+    time: "Oct 2023 - Mar 2024"
+    logo: "/assets/profile/denso.png"
+    description:
+      - 'Chatbots for manufacturing can provide production line infomations, such as: "Which equipment had the longest downtime on Jul 01, 2024, for the OCV1 line?", "What caused the longest downtime on June 02, 2023, for the HVAC line?"'
+      - "- LLM Localization."
+      - "- Prompting with RAG to extract name entity."
+      - "- Keyword matching with word embeddings similarity."
+      - "- Execute transaction from SQL server to get production line status."
+      - "- Store the history messages with mongoDB."
+      - "- Integrate bot into Telegram (feedback button, daily report, execute job via command)."
+  - employer: "Freelance"
+    name: "Eyebrow pose estimation"
+    time: "Dec 2023 - Feb 2024"
+    logo: "/assets/profile/nal.png"
+    description:
+      - Eyebrow pose estimation to recommend best style for each person.
+      - "- Face detection and alignment."
+      - "- Detect the key-points on eyebrow."
+      - "- Compute IOU between the prediction result and the ground-truth from the stylist (using affine transformation to scale, translate, rotate two coordinates)"
+  - employer: "Freelance"
+    name: "People Counting"
+    time: "Sep 2023 - Jan 2024"
+    logo: "/assets/profile/iph.png"
+    description:
+      - "Building People Counting System in Shopping mall:"
+      - "- Tracking (single camera, multi-camera), integration with Camera RTSP."
+      - "- Event driven with Message Queue (Redis, Kafka)."
+      - "- ReID person (embedding method, similarity search & re-ranking)."
+  - employer: "Freelance"
+    name: "Face KYC"
+    time: "Sep 2022 - Feb 2023"
+    logo: "/assets/profile/telehouse.jpg"
+    description:
+      - "Designing system architecture and developing components:"
+      - "- Camera management: capturing image from tablet, or camera ip."
+      - "- Model serving: hosting onnx face detection and face recognition model on jetson xavier with cuda supported."
+      - "- Door controller: control magnetic door with using ESP32, GPIO with UART protocol though USB Port."
+      - "- Licensing: using JWT with expire time to manage api access."
+      - "- Backend: manage users, CR, integrate with CASDM boardcom system."
+  - employer: "Viettel Cyber Security"
+    name: "Security Data Mining"
+    time: "May 2022 - Dec 2022"
+    logo: "/assets/profile/vcs.png"
+    description:
+      - Deploying a Hadoop cluster on premise.
+      - Integrate cluster with OneFS isilon cluster authenticated via kerberos and ldap.
+      - Writing spark job and execute via oozie workflow.
+      - Hardening, debugging and monitoring the system.
+  - employer: "Viettel Cyber Security"
+    name: "Typing biometrics"
+    time: "Jan 2022 - Mar 2022"
+    logo: "/assets/profile/vcs.png"
+    description:
+      - Authenticating system users by their typing behavior when login via username & password, or continuous on working session.
+      - "- Apply metric learning method to build the encoder, transform typing behavior to user features."
+      - "- Save embedding features into user profile when register (require OTP feedback)."
+      - "- Compare new typing behavior with registered features."
+  - employer: "Viettel Cyber Security"
+    name: "Transaction Fraud Detection"
+    time: "Sep 2021 - Dec 2021"
+    logo: "/assets/profile/vcs.png"
+    description:
+      - "Extract patterns from abnormal behavior, convert into multiple time series (ex: login on new device -> login failed limit exceeded -> reset password -> etc.)"
+      - "Compare real-time transaction behavior with learned abnormal behavior using matching algorithm, such as: dynamic time warping, longest common sub sequence, etc."
+      - Approximating time series using DFT, PAA, etc.
+  - employer: "Student"
+    name: "Keyword Spotting"
+    time: "Sep 2020 - Nov 2020"
+    logo: "/assets/profile/rf3i.png"
+    description:
+      - Recognizing keywords to control the device
+      - "- Building simple audio recognition model from speech commands dataset."
+      - "- Read infrared signal from television with IR 1838 sensor (receiver) and Raspberry Pi (use LIRC - Linux Infrared Remote Control)."
+      - "- Mapping keyword prediction to respective infrared signal, then emit signal from IR T940 (emitter) on Raspberry Pi to television."
+  - employer: "Freelance"
+    name: "Automatic number-plate recognition"
+    time: "Feb 2023 - Jun 2023"
+    logo: "/assets/profile/kotora.jpg"
+    description:
+      - Building ANPR system in apartment complex
+      - "- Number-plate detection."
+      - "- Number-plate processing: alignment by key-points, enhance, ..."
+      - "- Number-plate recognition."
+      - "- Integration with camera RTSP, stream processing with kafka."
+
+education:
+  - org: "Hanoi University of Science and Technology"
+    time: "2017 - 2021"
+    degree: "Bachelor"
+    field: "Automation Engineer Technology"
+    grade: 3.37/4.0
+    social: RF3i Lab, Student science research
+
+certs:
+  - name: "TOEIC 640"
+    time: "Apr 2023"
+    url: ""
+    image: "/assets/profile/iig.png"
+  - name: "Machine Learning Engineering for Production (MLOps) Specialization"
+    time: "Sep 2022"
+    url: "https://www.coursera.org/account/accomplishments/specialization/certificate/8LJGBPMMXKBH"
+    image: "/assets/profile/coursera.jpg"
+  - name: "Deep Learning Specialization"
+    time: "Jan 2022"
+    url: "https://www.coursera.org/account/accomplishments/specialization/certificate/RWCGQBAUFGT6"
+    image: "/assets/profile/coursera.jpg"
+  - name: "Machine Learning"
+    time: "Jan 2022"
+    url: "https://www.coursera.org/account/accomplishments/certificate/H4HKFJ2UAFLP"
+    image: "/assets/profile/stanford.png"
+
+skills:
+
+publications:
