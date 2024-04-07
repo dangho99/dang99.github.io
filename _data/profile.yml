@@ -42,7 +42,7 @@ experiences:
       - Message Queue
       - Microservice
     roles:
-      - name: "AI Software Developer"
+      - name: "Freelance - AI Software Developer"
         time: "Jun 2022 - Present"
         employment_type: "Part-time"
         location: "Viet Nam"
@@ -193,15 +193,18 @@ skills:
 publications:
 
 awards:
-  - name: "The excellent graduation project Award (Hanoi University of Science and Technology)"
+  - name: "The excellent graduation project Award"
     time: "May 2021"
     url: ""
+    org: Hanoi University of Science and Technology
     description: 'The best graduation project of council (grade: 9.5/10) at semester 2021-2 with "Keyword Spotting using Deep Learning"'
-  - name: "Study Encouragement Scholarship (Hanoi University of Science and Technology)"
+  - name: "Study Encouragement Scholarship"
     time: "Jan 2021"
     url: ""
+    org: Hanoi University of Science and Technology
     description: "Scholarships for students having excellent study achievements (GPA: 3.9, Point training: 84) in the semester 2021-1"
-  - name: "The excellent applicability prize (Hanoi University of Science and Technology)"
+  - name: "The excellent applicability prize"
     time: "Jun 2020"
     url: "https://drive.google.com/file/d/1-uIrp8pIjhTQapCvEcLc_1_YTnYNQWub/view?usp=sharing"
+    org: Hanoi University of Science and Technology
     description: "The best applicability award at semester 2020-2 in Student Scientific Research"
