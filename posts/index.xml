@@ -5,23 +5,14 @@
     <link>https://hoangph3.github.io/posts/</link>
     <description>Recent content in Posts on Hoangph3&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 11:45:22 -0800</lastBuildDate><atom:link href="https://hoangph3.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 11:45:22 -0800</lastBuildDate><atom:link href="https://hoangph3.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Complete Introduction to HTML and CSS</title>
-      <link>https://hoangph3.github.io/posts/introtohtmlandcss/</link>
-      <pubDate>Wed, 06 Dec 2023 11:45:22 -0800</pubDate>
+      <title>Deploying TensorFlow model as Canary Releases Kubernetes and Istio</title>
+      <link>https://hoangph3.github.io/posts/canary_release_tensorflow_k8s/</link>
+      <pubDate>Tue, 06 Dec 2022 11:45:22 -0800</pubDate>
       
-      <guid>https://hoangph3.github.io/posts/introtohtmlandcss/</guid>
-      <description>Learn the basics of HTML and JavaScript in only 10 minutes!</description>
-    </item>
-    
-    <item>
-      <title>Learn JavaScript In 30 Minutes</title>
-      <link>https://hoangph3.github.io/posts/learnjavascript/</link>
-      <pubDate>Wed, 06 Dec 2023 11:42:11 -0800</pubDate>
-      
-      <guid>https://hoangph3.github.io/posts/learnjavascript/</guid>
-      <description>A complete beginners guide to JavaScript, covering variables, loops, and other JavaScript syntax.</description>
+      <guid>https://hoangph3.github.io/posts/canary_release_tensorflow_k8s/</guid>
+      <description>Use Istio with Minikube and TensorFlow Serving to create canary deployments of TensorFlow machine learning models!</description>
     </item>
     
   </channel>
