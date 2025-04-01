@@ -15,5 +15,14 @@
       <description>Use Istio with Minikube and TensorFlow Serving to create canary deployments of TensorFlow machine learning models!</description>
     </item>
     
+    <item>
+      <title>Prepare and Deploy a TensorFlow Model to Tensorflow Serving</title>
+      <link>https://hoangph3.github.io/posts/tensorflow_serving_configuration/</link>
+      <pubDate>Tue, 06 Dec 2022 11:45:22 -0800</pubDate>
+      
+      <guid>https://hoangph3.github.io/posts/tensorflow_serving_configuration/</guid>
+      <description>Serve tensorflow model efficiently with customized model signatures</description>
+    </item>
+    
   </channel>
 </rss>
