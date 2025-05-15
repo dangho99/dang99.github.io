@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://hoangph3.github.io/sitemap.xml
+Sitemap: https://dang99.github.io/sitemap.xml
