@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DangHH&#39;s Blog</title>
-    <link>https://dangho99.github.io/</link>
+    <link>https://dangho99.github.io/dang99.github.io//</link>
     <description>Recent content on DangHH&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Dec 2022 11:45:22 -0800</lastBuildDate><atom:link href="https://dangho99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 11:45:22 -0800</lastBuildDate><atom:link href="https://dangho99.github.io/dang99.github.io//index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying TensorFlow model as Canary Releases Kubernetes and Istio</title>
-      <link>https://dangho99.github.io/posts/canary_release_tensorflow_k8s/</link>
+      <link>https://dangho99.github.io/dang99.github.io//posts/canary_release_tensorflow_k8s/</link>
       <pubDate>Tue, 06 Dec 2022 11:45:22 -0800</pubDate>
       
-      <guid>https://dangho99.github.io/posts/canary_release_tensorflow_k8s/</guid>
+      <guid>https://dangho99.github.io/dang99.github.io//posts/canary_release_tensorflow_k8s/</guid>
       <description>Use Istio with Minikube and TensorFlow Serving to create canary deployments of TensorFlow machine learning models!</description>
     </item>
     
     <item>
       <title>Prepare and Deploy a TensorFlow Model to Tensorflow Serving</title>
-      <link>https://dangho99.github.io/posts/tensorflow_serving_configuration/</link>
+      <link>https://dangho99.github.io/dang99.github.io//posts/tensorflow_serving_configuration/</link>
       <pubDate>Tue, 06 Dec 2022 11:45:22 -0800</pubDate>
       
-      <guid>https://dangho99.github.io/posts/tensorflow_serving_configuration/</guid>
+      <guid>https://dangho99.github.io/dang99.github.io//posts/tensorflow_serving_configuration/</guid>
       <description>Serve tensorflow model efficiently with customized model signatures</description>
     </item>
     
