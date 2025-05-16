@@ -5,11 +5,11 @@
     <link>https://dangho99.github.io/dang99.github.io//tags/tensorflow/</link>
     <description>Recent content in TensorFlow on DangHH&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Dec 2022 11:45:22 -0800</lastBuildDate><atom:link href="https://dangho99.github.io/dang99.github.io//tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2023 11:45:22 -0800</lastBuildDate><atom:link href="https://dangho99.github.io/dang99.github.io//tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prepare and Deploy a TensorFlow Model to Tensorflow Serving</title>
       <link>https://dangho99.github.io/dang99.github.io//posts/tensorflow_serving_configuration/</link>
-      <pubDate>Tue, 06 Dec 2022 11:45:22 -0800</pubDate>
+      <pubDate>Tue, 06 Dec 2023 11:45:22 -0800</pubDate>
       
       <guid>https://dangho99.github.io/dang99.github.io//posts/tensorflow_serving_configuration/</guid>
       <description>Serve tensorflow model efficiently with customized model signatures</description>
